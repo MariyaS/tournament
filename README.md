@@ -7,8 +7,8 @@ A Python module that uses the PostgreSQL database to keep track of players, rank
 I. File list
 ---------------
 tournament.py				- contains the module methods
-tournament_test.py			- Python file used for testing
 tournament.sql				- Table and View definitions for the tournament database
+tournament_test.py			- Python file used for testing
 Swiss_Style_Tournament_script.py	- Python file that runs the tournament
 
 
